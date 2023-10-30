@@ -43,8 +43,8 @@ data = {
                     "switchingSt": "disabled",
                     "trunkLog": "default",
                     "usage": "fabric,fabric-ext"
-                }
-            }
+                 }
+             }
         },
         {
             "l1PhysIf": {
