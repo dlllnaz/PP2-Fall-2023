@@ -1,0 +1,1 @@
+([('main', '/Users/dimka/KBTU/pp2-fall-2023/game/DJ/dist/main', 'EXECUTABLE')],)
